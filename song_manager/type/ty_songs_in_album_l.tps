@@ -1,0 +1,2 @@
+CREATE OR REPLACE TYPE ty_songs_in_album_l IS TABLE OF VARCHAR2(250);
+/
